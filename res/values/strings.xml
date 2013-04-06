@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello voicerecog!</string>
+    <string name="app_name">voicerecog</string>
+    <string name="recordButton">Hello, Record Now!</string>
+    <string name="stopButton">Stop Now!</string>
+    <string name="btnFormat">Format(mp4)</string>
+    
+    <string name="audio_format">Format</string>
+    <string name="choose_format_title">Choose Audio Format</string>
+    <string name="playButton">Try Play!</string>
+    <string name="stopPlayButton">Stop Playing!</string>
+</resources>
